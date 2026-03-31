@@ -1,0 +1,5 @@
+{
+  "name": "Last Epoch Filter Merger",
+  "description": "Merge multiple Last Epoch item filters into a single file, deduplicating identical rules and staying within the 200-rule limit.",
+  "requestFramePermissions": []
+}
